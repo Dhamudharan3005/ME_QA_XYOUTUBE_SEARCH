@@ -11,6 +11,6 @@ public class ExcelDataProvider {
         return ExcelReaderUtil.readExcelData(fileLocation);
     }
     public static void main(String args[]){
-        excelData();
+        excelData();                           
     }
 }
